@@ -26,7 +26,7 @@ jobs:
       # Step 3: Push the generated files back to the repository
       - name: Push the generated files
         run: |
-          git config --global user.name "yasuo7"
+          git config --global user.name "yasuo72"
           git config --global user.email "kingrohi37@gmail.com"
           git add dist
           git commit -m "Update GitHub Contribution Snake"
