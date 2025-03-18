@@ -1,7 +1,7 @@
 ## 🐍 GitHub Contribution Snake
 
-![Snake Animation](https://raw.githubusercontent.com/yasuo72/.github/workflows//main/dist/github-snake.svg)
+![Snake Animation](https://raw.githubusercontent.com/yasuo72/.github/workflows/main/dist/github-snake.svg)
 
-![Dark Snake Animation](https://raw.githubusercontent.com/your-username/your-repo/main/dist/github-snake-dark.svg)
+![Dark Snake Animation](https://raw.githubusercontent.com/yasuo72/.github/workflows/main/dist/github-snake-dark.svg)
 
-![Ocean Snake Animation](https://raw.githubusercontent.com/your-username/your-repo/main/dist/ocean.gif)
+![Ocean Snake Animation](https://raw.githubusercontent.com/yasuo72/.github/workflows/main/dist/ocean.gif)
